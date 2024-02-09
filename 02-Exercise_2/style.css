@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.header{
+    height:50px;
+    width: 100%;
+    background-color:powderblue;
+    padding: 2%;
+}
+
+.main{
+    
+    max-height: 500px;
+    background-color: rgb(12, 187, 245);
+}
